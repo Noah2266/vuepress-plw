@@ -1,0 +1,1 @@
+import{_ as o,M as t,p as n,q as c,N as r}from"./framework-6700cb35.js";const _={};function s(a,l){const e=t("Footer");return n(),c("div",null,[r(e)])}const d=o(_,[["render",s],["__file","index.html.vue"]]);export{d as default};
